@@ -1,0 +1,286 @@
+body {
+    width: 1276px;
+    height: 2068px;
+    bottom: 3px;
+    left: 6px;
+    right: 1px;
+    top: 12px;
+}
+
+.header {
+    width: 1276px;
+    height: 50px;
+    text-align: center;
+}
+
+.holine1 {
+    width: 300px;
+    margin-left: 250px;
+}
+
+.holine2 {
+    width: 300px;
+    top: 95px;
+    margin-left: 730px;
+    position: absolute;
+}
+
+.second {
+    margin-left: 565px;
+    top: 65px;
+    position: absolute;
+}
+
+.bigimage {
+    width: 743px;
+    height: 498px;
+    top: 132px;
+    position: absolute;
+    margin-left: 255px;
+}
+
+.one {
+    font-size: 52px;
+}
+
+.box {
+    background-color: dimgray;
+    width: 743px;
+    height: 1198px;
+    margin-left: 255px;
+}
+
+.mid {
+    width: 773px;
+    height: 548px;
+}
+
+
+.holine3 {
+    width: 270px;
+    top: 720px;
+    position: absolute;
+    margin-left: 250px;
+}
+
+.third {
+     margin-left: 545px;
+    top: 690px;
+    position: absolute;
+}
+
+.holine4 {
+    top: 720px;
+    position: absolute;
+    width: 270px;
+    margin-left: 730px;
+}
+
+.intern {
+    height: 100px;
+    text-align: center;
+}
+
+.summer {
+    margin-top: 170px;
+}
+
+
+
+
+    #rectangle1 {
+	width: 270px;
+	height: 500px;
+	background: darkgrey;
+        position: absolute;
+        margin-left: 80px;
+        margin-top: 50px;
+}
+
+.t1 {
+    background-color: beige;
+    width: 200px;
+    height: 300px;
+}
+
+#rectangle2 {
+    width: 270px;
+	height: 500px;
+	background: darkgrey;
+    position: absolute;
+        margin-left: 400px;
+        margin-top: 50px;
+}
+
+#rectangle3 {
+	width: 270px;
+	height: 500px;
+	background: darkgrey;
+        position: absolute;
+        margin-left: 80px;
+        margin-top: 600px;
+}
+
+#rectangle4 {
+     width: 270px;
+	height: 500px;
+	background: darkgrey;
+    position: absolute;
+        margin-left: 400px;
+        margin-top: 600px;
+}
+
+#cir1 {
+	width: 150px;
+    margin-left: 60px;
+    margin-top: 20px;
+	height: 150px;
+	background: red;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+
+}
+
+#cir2 {
+	width: 150px;
+    margin-left: 60px;
+    margin-top: 20px;
+	height: 150px;
+	background: red;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+
+}
+
+#cir3 {
+	width: 150px;
+    margin-left: 60px;
+    margin-top: 20px;
+	height: 150px;
+	background: red;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+
+}
+
+#cir4 {
+	width: 150px;
+    margin-left: 60px;
+    margin-top: 20px;
+	height: 150px;
+	background: red;
+	-moz-border-radius: 90px;
+	-webkit-border-radius: 90px;
+	border-radius: 90px;
+
+}
+
+#cc1 {
+	width: 220px;
+	height: 170px;
+    margin-left: 30px;
+    margin-top: 20px;
+	background: white;
+}
+
+#cd1 {
+    margin-left: 30px; 
+	width: 0;
+	height: 0;
+	border-left: 110px solid transparent;
+	border-right: 110px solid transparent;
+	border-top: 100px solid white;
+}
+
+#cc2 {
+    width: 220px;
+	height: 170px;
+    margin-left: 30px;
+    margin-top: 20px;
+	background: white;
+}
+
+#cd2 {
+    margin-left: 30px; 
+	width: 0;
+	height: 0;
+	border-left: 110px solid transparent;
+	border-right: 110px solid transparent;
+	border-top: 100px solid white;
+}
+
+#cd3 {
+    margin-left: 30px; 
+	width: 0;
+	height: 0;
+	border-left: 110px solid transparent;
+	border-right: 110px solid transparent;
+	border-top: 100px solid white;
+}
+
+#cd4 {
+    margin-left: 30px; 
+	width: 0;
+	height: 0;
+	border-left: 110px solid transparent;
+	border-right: 110px solid transparent;
+	border-top: 100px solid white;
+}
+
+#cc4 {
+    width: 220px;
+	height: 170px;
+    margin-left: 30px;
+    margin-top: 20px;
+	background: white;
+}
+
+#cc3 {
+    width: 220px;
+	height: 170px;
+    margin-left: 30px;
+    margin-top: 20px;
+	background: white;
+}
+
+.foot {
+    height: 100px;
+}
+
+.holine5 {
+    width: 270px;
+    top: 2150px;
+    position: absolute;
+    margin-left: 250px;
+}
+
+.holine6 {
+    width: 270px;
+    top: 2150px;
+    position: absolute;
+    margin-left: 750px;
+}
+
+.four {
+    margin-left: 545px;
+    top: 2120px;
+    position: absolute;
+}
+
+.fifth {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.but {
+    background-color:turquoise;
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    margin-left: 490px;
+    font-size: 25px;
+  border-radius: 25px;
+}
